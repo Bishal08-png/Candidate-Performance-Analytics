@@ -1,5 +1,4 @@
-#** Candidate Performance Analytics **
-
+# Candidate Performance Analytics 
 ## Project Overview
 
 This project is an integral part of an **AI Assessment System**, specifically focusing on the advanced analysis of candidate assessment performance. It provides a robust, end-to-end solution for evaluating candidates in an automated and insightful manner.
