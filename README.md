@@ -240,19 +240,6 @@ This project is designed to be run in a Jupyter Notebook environment.
 5.  **Generate Analytics**: The system will then compute all performance metrics and insights.
 6.  **Export Reports**: All analytics, visualizations, and reports (JSON, CSV, TXT, PDF) will be automatically generated and saved to the `output/` folder. PDF reports will also be displayed page-by-page within the notebook output if the environment supports it.
 
-##  Screenshots
-
-<!-- Placeholder for Screenshots -->
-
-*   **Dashboard Screenshot**
-    ![Dashboard Placeholder](https://via.placeholder.com/600x400?text=Dashboard+Screenshot)
-*   **Candidate Report Screenshot**
-    ![Candidate Report Placeholder](https://via.placeholder.com/600x400?text=Candidate+Report+Screenshot)
-*   **PDF Report Screenshot**
-    ![PDF Report Placeholder](https://via.placeholder.com/600x400?text=PDF+Report+Screenshot)
-*   **Analytics Charts Screenshot**
-    ![Analytics Charts Placeholder](https://via.placeholder.com/600x400?text=Analytics+Charts+Screenshot)
-
 ##  Project Deliverables
 
 *   **Analytics Dataset**: Cleaned and validated raw assessment data.
