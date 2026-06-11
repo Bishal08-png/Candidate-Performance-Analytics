@@ -1,0 +1,8 @@
+candidate_id,question_id,domain,difficulty,correct_answer,candidate_answer,is_correct,is_attempted
+C001,Q022,LLMs,Easy,C,,,False
+C001,Q003,Machine Learning,Easy,C,C,True,True
+C001,Q027,NLP,Hard,D,,,False
+C001,Q010,Python,Medium,D,D,True,True
+C001,Q012,NLP,Medium,D,A,False,True
+C001,Q008,NLP,Medium,C,B,False,True
+C001,Q028,Data Science,Easy,C,C,True,True

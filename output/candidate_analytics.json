@@ -1,0 +1,19 @@
+{
+    "accuracy": 62.31,
+    "completion_rate": 86.67,
+    "attempted_questions": 130,
+    "unanswered_questions": 20,
+    "total_questions": 150,
+    "domain_scores": {
+        "Machine Learning": 62.96,
+        "LLMs": 50.0,
+        "Python": 52.94,
+        "Data Science": 68.97,
+        "NLP": 69.7
+    },
+    "difficulty_performance": {
+        "Hard": 58.97,
+        "Easy": 65.22,
+        "Medium": 62.22
+    }
+}

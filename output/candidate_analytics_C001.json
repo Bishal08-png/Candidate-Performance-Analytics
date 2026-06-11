@@ -1,0 +1,20 @@
+{
+    "candidate_id": "C001",
+    "accuracy": 60.0,
+    "completion_rate": 71.43,
+    "attempted_questions": 5,
+    "unanswered_questions": 2,
+    "total_questions": 7,
+    "domain_scores": {
+        "LLMs": 0,
+        "Machine Learning": 100.0,
+        "NLP": 0.0,
+        "Python": 100.0,
+        "Data Science": 100.0
+    },
+    "difficulty_performance": {
+        "Easy": 100.0,
+        "Hard": 0,
+        "Medium": 33.33
+    }
+}

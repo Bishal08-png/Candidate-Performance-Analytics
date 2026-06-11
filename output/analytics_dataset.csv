@@ -1,0 +1,151 @@
+candidate_id,question_id,domain,difficulty,correct_answer,candidate_answer,is_correct,is_attempted
+C013,Q041,Machine Learning,Hard,D,D,True,True
+C001,Q022,LLMs,Easy,C,,,False
+C002,Q039,Python,Hard,A,D,False,True
+C017,Q030,Data Science,Medium,D,,,False
+C012,Q008,Data Science,Easy,D,D,True,True
+C005,Q008,Machine Learning,Medium,C,A,False,True
+C008,Q042,Python,Easy,D,D,True,True
+C014,Q003,NLP,Hard,D,D,True,True
+C003,Q013,Python,Easy,B,B,True,True
+C011,Q006,LLMs,Easy,B,B,True,True
+C012,Q001,LLMs,Easy,A,A,True,True
+C008,Q006,Data Science,Hard,B,C,False,True
+C018,Q028,Data Science,Hard,C,D,False,True
+C017,Q039,Machine Learning,Medium,B,A,False,True
+C015,Q043,NLP,Hard,C,C,True,True
+C019,Q029,LLMs,Hard,A,B,False,True
+C016,Q050,NLP,Hard,D,B,False,True
+C018,Q034,Machine Learning,Easy,B,B,True,True
+C009,Q006,NLP,Easy,B,C,False,True
+C020,Q003,Data Science,Medium,B,C,False,True
+C011,Q029,NLP,Medium,B,B,True,True
+C007,Q038,NLP,Hard,A,A,True,True
+C018,Q050,NLP,Medium,B,B,True,True
+C012,Q026,LLMs,Easy,B,C,False,True
+C020,Q037,Data Science,Medium,D,D,True,True
+C006,Q039,Python,Hard,A,A,True,True
+C004,Q046,NLP,Hard,A,A,True,True
+C018,Q042,Machine Learning,Medium,C,B,False,True
+C013,Q004,NLP,Easy,C,C,True,True
+C015,Q042,Data Science,Medium,D,D,True,True
+C007,Q007,Machine Learning,Medium,D,D,True,True
+C004,Q014,Machine Learning,Medium,A,C,False,True
+C006,Q014,LLMs,Medium,C,C,True,True
+C018,Q023,Machine Learning,Hard,B,B,True,True
+C006,Q045,Python,Easy,A,D,False,True
+C002,Q031,Data Science,Easy,C,C,True,True
+C016,Q036,LLMs,Easy,D,A,False,True
+C016,Q003,NLP,Medium,A,A,True,True
+C012,Q049,Machine Learning,Medium,A,A,True,True
+C013,Q046,NLP,Hard,A,,,False
+C002,Q045,NLP,Easy,D,D,True,True
+C019,Q018,Python,Medium,C,A,False,True
+C012,Q030,LLMs,Hard,C,D,False,True
+C003,Q023,Machine Learning,Hard,A,,,False
+C017,Q050,LLMs,Easy,C,,,False
+C006,Q040,NLP,Medium,D,D,True,True
+C019,Q001,Machine Learning,Hard,D,D,True,True
+C004,Q038,Python,Medium,A,A,True,True
+C020,Q025,Data Science,Easy,C,B,False,True
+C010,Q015,Python,Easy,C,C,True,True
+C006,Q050,Data Science,Medium,A,,,False
+C011,Q002,Data Science,Hard,A,A,True,True
+C002,Q050,Python,Hard,A,B,False,True
+C011,Q050,NLP,Medium,C,C,True,True
+C003,Q020,Machine Learning,Medium,A,A,True,True
+C004,Q029,LLMs,Easy,B,B,True,True
+C003,Q045,Python,Easy,D,A,False,True
+C018,Q032,Data Science,Medium,A,B,False,True
+C016,Q047,NLP,Easy,D,C,False,True
+C010,Q049,Machine Learning,Easy,C,C,True,True
+C014,Q012,Machine Learning,Hard,B,B,True,True
+C005,Q014,Python,Medium,B,A,False,True
+C017,Q037,Machine Learning,Medium,D,C,False,True
+C016,Q026,LLMs,Hard,C,C,True,True
+C002,Q011,LLMs,Hard,D,D,True,True
+C011,Q036,Data Science,Hard,D,C,False,True
+C010,Q010,Data Science,Medium,B,B,True,True
+C012,Q025,LLMs,Hard,B,D,False,True
+C007,Q042,Data Science,Hard,D,D,True,True
+C020,Q031,Machine Learning,Medium,D,B,False,True
+C017,Q031,Machine Learning,Easy,A,A,True,True
+C005,Q028,Data Science,Hard,C,,,False
+C001,Q003,Machine Learning,Easy,C,C,True,True
+C004,Q031,LLMs,Medium,D,,,False
+C020,Q029,Python,Medium,D,,,False
+C015,Q023,Machine Learning,Hard,B,B,True,True
+C016,Q023,NLP,Medium,A,B,False,True
+C002,Q048,Data Science,Easy,A,A,True,True
+C019,Q022,Python,Medium,A,A,True,True
+C011,Q045,Data Science,Easy,C,A,False,True
+C007,Q009,Machine Learning,Medium,B,,,False
+C019,Q037,Data Science,Easy,A,A,True,True
+C013,Q025,Data Science,Medium,C,,,False
+C010,Q017,Data Science,Easy,C,C,True,True
+C001,Q027,NLP,Hard,D,,,False
+C008,Q013,NLP,Easy,B,B,True,True
+C020,Q034,Python,Medium,D,,,False
+C001,Q010,Python,Medium,D,D,True,True
+C016,Q013,NLP,Medium,C,B,False,True
+C018,Q016,LLMs,Hard,C,D,False,True
+C009,Q001,LLMs,Hard,A,A,True,True
+C005,Q002,LLMs,Medium,A,B,False,True
+C015,Q047,Data Science,Easy,D,D,True,True
+C012,Q045,LLMs,Hard,C,B,False,True
+C017,Q019,LLMs,Easy,C,B,False,True
+C004,Q001,Machine Learning,Medium,D,D,True,True
+C005,Q036,NLP,Medium,A,A,True,True
+C008,Q047,Data Science,Easy,A,B,False,True
+C015,Q031,Python,Hard,D,C,False,True
+C017,Q034,NLP,Hard,D,D,True,True
+C002,Q002,Data Science,Easy,B,A,False,True
+C009,Q024,Machine Learning,Medium,C,A,False,True
+C011,Q041,Data Science,Easy,A,A,True,True
+C010,Q019,NLP,Hard,C,C,True,True
+C004,Q017,LLMs,Hard,A,B,False,True
+C002,Q015,LLMs,Medium,A,,,False
+C019,Q049,NLP,Easy,A,A,True,True
+C011,Q040,Machine Learning,Easy,D,,,False
+C005,Q050,Data Science,Medium,C,C,True,True
+C001,Q012,NLP,Medium,D,A,False,True
+C008,Q034,LLMs,Easy,C,,,False
+C018,Q021,LLMs,Medium,A,A,True,True
+C008,Q004,NLP,Easy,A,A,True,True
+C015,Q034,NLP,Easy,C,C,True,True
+C014,Q038,Machine Learning,Medium,B,B,True,True
+C009,Q030,Machine Learning,Hard,D,,,False
+C019,Q017,Machine Learning,Easy,B,C,False,True
+C013,Q035,NLP,Hard,B,D,False,True
+C007,Q049,LLMs,Hard,C,B,False,True
+C014,Q039,Data Science,Medium,D,D,True,True
+C020,Q050,Python,Hard,D,D,True,True
+C004,Q015,Data Science,Medium,C,C,True,True
+C012,Q015,Data Science,Hard,B,B,True,True
+C002,Q025,NLP,Medium,D,D,True,True
+C011,Q016,Python,Easy,A,B,False,True
+C007,Q026,Python,Easy,A,A,True,True
+C004,Q042,NLP,Easy,A,A,True,True
+C001,Q008,NLP,Medium,C,B,False,True
+C011,Q048,Data Science,Hard,C,C,True,True
+C007,Q034,Data Science,Hard,C,C,True,True
+C008,Q044,Machine Learning,Easy,B,,,False
+C015,Q003,NLP,Medium,D,D,True,True
+C016,Q039,LLMs,Hard,B,B,True,True
+C003,Q028,NLP,Medium,D,C,False,True
+C018,Q045,LLMs,Easy,C,C,True,True
+C012,Q014,Data Science,Medium,B,B,True,True
+C004,Q039,NLP,Easy,C,C,True,True
+C002,Q008,Machine Learning,Medium,D,D,True,True
+C017,Q016,Machine Learning,Medium,B,B,True,True
+C010,Q024,Machine Learning,Easy,B,C,False,True
+C016,Q037,NLP,Easy,D,D,True,True
+C014,Q018,Machine Learning,Hard,D,D,True,True
+C007,Q046,Python,Medium,C,,,False
+C017,Q027,LLMs,Easy,C,C,True,True
+C013,Q037,Data Science,Hard,C,,,False
+C010,Q012,LLMs,Easy,A,C,False,True
+C013,Q045,LLMs,Medium,B,B,True,True
+C006,Q037,Machine Learning,Hard,C,A,False,True
+C001,Q028,Data Science,Easy,C,C,True,True
+C015,Q033,NLP,Easy,A,B,False,True
